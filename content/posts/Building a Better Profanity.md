@@ -1,9 +1,9 @@
 ---
 title: Building a Better Profanity
-date: "2019-02-04T12:00:00.000Z"
+date: "2019-03-14T12:00:00.000Z"
 template: "post"
 draft: false
-slug: "/blog/better-profanity-detection-with-scikit-learn/"
+slug: "/blog/better-profanity/"
 img: "/media/xkcd-290.png"
 category: "Machine Learning"
 tags:
