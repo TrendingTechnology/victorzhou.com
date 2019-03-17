@@ -2,9 +2,9 @@
 
 module.exports = {
   url: 'https://victorzhou.com',
-  title: 'victorzhou.com',
-  subtitle: 'Computer Science at Princeton University. I blog about web development, machine learning, programming, and more.',
-  copyright: '© Victor Zhou 2019',
+  title: '新美文',
+  subtitle: '专注SEO',
+  copyright: '© 新美文',
   disqusShortname: 'victorzhou',
   postsPerPage: 5,
   googleAnalyticsId: 'UA-58664433-1',
@@ -24,7 +24,6 @@ module.exports = {
     photoLarge: '/photo-large.png',
     bio: 'Computer Science at Princeton University. I blog about <a href="/tag/web-development">web development</a>, <a href="/tag/machine-learning">machine learning</a>, <a href="/tag/programming">programming</a>, and <a href="/tags">more</a>.',
     contacts: {
-      email: 'vzhou842@gmail.com',
       twitter: 'victorczhou',
       github: 'vzhou842',
     }
